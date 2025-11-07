@@ -14,5 +14,6 @@ It determines when **each word and sound (sound unit)** begins and ends during s
 3. **Click "Run Alignment"** to start the alignment process.  
 4. **See results** shown in tables showing **words** and **sounds** times.  
 5. **Download output:**  
-   - **TextGrid File** - for use in tools such as *Pratt*.  
+   - **TextGrid File** - for use in tools such as *Praat*.  
    - **Report File** - A `.txt` summary of all alignment data.
+
